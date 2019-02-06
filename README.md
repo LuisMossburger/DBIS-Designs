@@ -1,5 +1,5 @@
 # DBIS-Designs
 
-Stylesheets für DBIS!
+Stylesheets für DBIS! Im Einsatz:
 
-DBIS Staatliche Bibliothek Regensburg: mittlerweile im Einsatz unter: http://dbis.uni-regensburg.de//fachliste.php?bib_id=stabi
+Staatliche Bibliothek Regensburg: http://dbis.uni-regensburg.de//fachliste.php?bib_id=stabi
