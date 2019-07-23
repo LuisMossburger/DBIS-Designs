@@ -12,3 +12,5 @@ Staats- und Stadtbibliothek Augsburg (State and public library Augsburg): http:/
 European Library Berlin ESCP: http://dbis.ur.de//fachliste.php?bib_id=escp
 
 Bibliothek des Germanischen Nationalmuseums: http://dbis.ur.de//fachliste.php?bib_id=gnm
+
+Technische Hochschule Ingolstadt: http://dbis.ur.de//fachliste.php?bib_id=fhbin
